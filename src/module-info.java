@@ -1,0 +1,2 @@
+module kadai5 {
+}
