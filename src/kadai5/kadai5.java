@@ -65,5 +65,5 @@ public class kadai5 {
 				return array1;
 		}
 			
-//	
+//	//
 }
